@@ -6,9 +6,8 @@ import os
 import base64
 import pickle
 from streamlit_option_menu import option_menu
-import numpy as np
 
-value = np.float64(3.14)
+value = float(3.14)
 
 
 # Set page configuration
