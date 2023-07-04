@@ -7,8 +7,6 @@ import base64
 import pickle
 from streamlit_option_menu import option_menu
 
-value = float(3.14)
-
 
 # Set page configuration
 st.set_page_config(page_title='QSAR ToolBox', page_icon='🌐', layout="wide")
