@@ -1,5 +1,5 @@
 import streamlit as st
-st.text("**hdhwv** $hs")
-st.write("**hshevh** $hd")
+st.text("**hdhwv** gg$hs")
+st.write("**hshevh** fu$hd")
 
-st.markdown("**hshevh** $hs")
+st.markdown("**hshevh** cj$hs")
